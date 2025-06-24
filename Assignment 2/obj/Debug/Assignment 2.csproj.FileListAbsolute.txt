@@ -1,0 +1,7 @@
+C:\Training\Assignments\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Training\Assignments\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Training\Assignments\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Training\Assignments\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+C:\Training\Assignments\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Training\Assignments\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Training\Assignments\Assignment 2\obj\Debug\Assignment 2.pdb
