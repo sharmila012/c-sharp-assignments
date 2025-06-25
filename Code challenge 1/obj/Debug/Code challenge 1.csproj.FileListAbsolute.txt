@@ -1,0 +1,7 @@
+C:\Infinite Training\Code challenges\Code challenge 1\bin\Debug\Code challenge 1.exe.config
+C:\Infinite Training\Code challenges\Code challenge 1\bin\Debug\Code challenge 1.exe
+C:\Infinite Training\Code challenges\Code challenge 1\bin\Debug\Code challenge 1.pdb
+C:\Infinite Training\Code challenges\Code challenge 1\obj\Debug\Code challenge 1.csproj.AssemblyReference.cache
+C:\Infinite Training\Code challenges\Code challenge 1\obj\Debug\Code challenge 1.csproj.CoreCompileInputs.cache
+C:\Infinite Training\Code challenges\Code challenge 1\obj\Debug\Code challenge 1.exe
+C:\Infinite Training\Code challenges\Code challenge 1\obj\Debug\Code challenge 1.pdb
