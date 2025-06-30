@@ -1,0 +1,14 @@
+C:\Training\Training 26-06\bin\Debug\Training 26-06.exe.config
+C:\Training\Training 26-06\bin\Debug\Training 26-06.exe
+C:\Training\Training 26-06\bin\Debug\Training 26-06.pdb
+C:\Training\Training 26-06\obj\Debug\Training 26-06.csproj.AssemblyReference.cache
+C:\Training\Training 26-06\obj\Debug\Training 26-06.csproj.CoreCompileInputs.cache
+C:\Training\Training 26-06\obj\Debug\Training 26-06.exe
+C:\Training\Training 26-06\obj\Debug\Training 26-06.pdb
+C:\Infinite Training\C sharp Assignments\Assignment 4\bin\Debug\Training 26-06.exe.config
+C:\Infinite Training\C sharp Assignments\Assignment 4\bin\Debug\Training 26-06.exe
+C:\Infinite Training\C sharp Assignments\Assignment 4\bin\Debug\Training 26-06.pdb
+C:\Infinite Training\C sharp Assignments\Assignment 4\obj\Debug\Training 26-06.csproj.AssemblyReference.cache
+C:\Infinite Training\C sharp Assignments\Assignment 4\obj\Debug\Training 26-06.csproj.CoreCompileInputs.cache
+C:\Infinite Training\C sharp Assignments\Assignment 4\obj\Debug\Training 26-06.exe
+C:\Infinite Training\C sharp Assignments\Assignment 4\obj\Debug\Training 26-06.pdb
