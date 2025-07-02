@@ -52,7 +52,6 @@ namespace Assignment_4
                             break;
                         case 6:
                             Console.WriteLine("Exiting program. Goodbye!");
-                            Console.ReadLine();
                             break;
                         default:
                             Console.WriteLine("Invalid choice. Please enter a number between 1 and 6.");
@@ -66,6 +65,24 @@ namespace Assignment_4
                 }
 
             } while (choice != 6);
+            Console.WriteLine("________________________");
+            Console.WriteLine("question 2 output");
+            question2();
+        }
+        public static void question2()
+        {
+            MobilePhone phone = new MobilePhone();
+            // Create subscriber instances
+            RingtonePlayer ringtone = new RingtonePlayer();
+            ScreenDisplay screen = new ScreenDisplay();
+            VibrationMotor vibration = new VibrationMotor();
+            // Subscribe to the OnRing event
+            phone.OnRing += ringtone.PlayRingtone;
+            phone.OnRing += screen.ShowCallerInfo;
+            phone.OnRing += vibration.Vibrate;
+            // Simulate incoming call
+            phone.ReceiveCall();
+            Console.ReadLine();
         }
         static void AddEmployee()
         {
@@ -175,6 +192,41 @@ namespace Assignment_4
             {
                 Console.WriteLine("Invalid ID format.");
             }
+        }
+    }
+    public class MobilePhone
+    {
+        // Delegate definition
+        public delegate void RingEventHandler();
+        // Event declaration
+        public event RingEventHandler OnRing;
+        // Method to simulate receiving a call
+        public void ReceiveCall()
+        {
+            Console.WriteLine("Incoming call...");
+            OnRing?.Invoke(); // Trigger the event
+        }
+    }
+    // 2. Subscriber classes
+    public class RingtonePlayer
+    {
+        public void PlayRingtone()
+        {
+            Console.WriteLine("Playing ringtone...");
+        }
+    }
+    public class ScreenDisplay
+    {
+        public void ShowCallerInfo()
+        {
+            Console.WriteLine("Displaying caller information...");
+        }
+    }
+    public class VibrationMotor
+    {
+        public void Vibrate()
+        {
+            Console.WriteLine("Phone is vibrating...");
         }
     }
 }
