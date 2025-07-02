@@ -65,7 +65,7 @@ namespace Assignment_4
                 }
 
             } while (choice != 6);
-            Console.WriteLine("________________________");
+            Console.WriteLine("__________________________________________________________");
             Console.WriteLine("question 2 output");
             question2();
         }
