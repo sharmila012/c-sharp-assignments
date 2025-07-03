@@ -1,0 +1,7 @@
+C:\Infinite Training\C sharp Assignments\Code Challenge 2\obj\Debug\Code Challenge 2.csproj.AssemblyReference.cache
+C:\Infinite Training\C sharp Assignments\Code Challenge 2\obj\Debug\Code Challenge 2.csproj.CoreCompileInputs.cache
+C:\Infinite Training\C sharp Assignments\Code Challenge 2\bin\Debug\Code Challenge 2.exe.config
+C:\Infinite Training\C sharp Assignments\Code Challenge 2\bin\Debug\Code Challenge 2.exe
+C:\Infinite Training\C sharp Assignments\Code Challenge 2\bin\Debug\Code Challenge 2.pdb
+C:\Infinite Training\C sharp Assignments\Code Challenge 2\obj\Debug\Code Challenge 2.exe
+C:\Infinite Training\C sharp Assignments\Code Challenge 2\obj\Debug\Code Challenge 2.pdb
