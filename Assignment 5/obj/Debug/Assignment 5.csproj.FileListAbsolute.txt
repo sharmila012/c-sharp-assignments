@@ -1,0 +1,7 @@
+C:\Infinite Training\C sharp Assignments\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Infinite Training\C sharp Assignments\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Infinite Training\C sharp Assignments\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Infinite Training\C sharp Assignments\Assignment 5\obj\Debug\Assignment 5.csproj.AssemblyReference.cache
+C:\Infinite Training\C sharp Assignments\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Infinite Training\C sharp Assignments\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Infinite Training\C sharp Assignments\Assignment 5\obj\Debug\Assignment 5.pdb
