@@ -10,12 +10,12 @@ namespace Assignment_7
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("**** Question 1 Output ****");
-            //question1();
-            //Console.WriteLine("**** Question 2 Output ****");
-            //question2();
-            //Console.WriteLine("**** Question 3 Output ****");
-            //question3();
+            Console.WriteLine("**** Question 1 Output ****");
+            question1();
+            Console.WriteLine("**** Question 2 Output ****");
+            question2();
+            Console.WriteLine("**** Question 3 Output ****");
+            question3();
             Console.WriteLine("**** Question 4 Output ****");
             question4();
             Console.ReadLine();

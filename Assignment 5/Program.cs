@@ -103,10 +103,8 @@ namespace Assignment_5
             {
                 Console.Write($"Enter name of book {i + 1}: ");
                 string bookName = Console.ReadLine();
-
                 Console.Write($"Enter author of book {i + 1}: ");
                 string authorName = Console.ReadLine();
-
                 shelf[i] = new Books(bookName, authorName);
                 Console.WriteLine();
             }
