@@ -1,0 +1,7 @@
+C:\Infinite Training\C sharp Assignments\SQL Code Challenges\SQL - Code Challenge 1\SQL - Code challenge 1\bin\Debug\SQL - Code challenge 1.exe.config
+C:\Infinite Training\C sharp Assignments\SQL Code Challenges\SQL - Code Challenge 1\SQL - Code challenge 1\bin\Debug\SQL - Code challenge 1.exe
+C:\Infinite Training\C sharp Assignments\SQL Code Challenges\SQL - Code Challenge 1\SQL - Code challenge 1\bin\Debug\SQL - Code challenge 1.pdb
+C:\Infinite Training\C sharp Assignments\SQL Code Challenges\SQL - Code Challenge 1\SQL - Code challenge 1\obj\Debug\SQL - Code challenge 1.csproj.AssemblyReference.cache
+C:\Infinite Training\C sharp Assignments\SQL Code Challenges\SQL - Code Challenge 1\SQL - Code challenge 1\obj\Debug\SQL - Code challenge 1.csproj.CoreCompileInputs.cache
+C:\Infinite Training\C sharp Assignments\SQL Code Challenges\SQL - Code Challenge 1\SQL - Code challenge 1\obj\Debug\SQL - Code challenge 1.exe
+C:\Infinite Training\C sharp Assignments\SQL Code Challenges\SQL - Code Challenge 1\SQL - Code challenge 1\obj\Debug\SQL - Code challenge 1.pdb
