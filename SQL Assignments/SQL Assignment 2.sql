@@ -58,8 +58,17 @@ select ename,empno,salary from emp where salary>=1200 and salary<=1400
 --4. Give all the employees in the RESEARCH department a 10% pay rise. 
 --   Verify that this has been done by listing all their details before and after the rise. 
 select * from emp
-join dept on emp.deptno = dept.deptno
-where dept.dname = 'research' --before raise
+where deptno = (
+select deptno from dept where dname = 'research') --before raise
+
+update emp
+set salary = salary*1.10
+where deptno = (
+select deptno from dept where dname = 'research')
+
+select * from emp
+where deptno = (
+select deptno from dept where dname = 'research') --after raise
 
 --5. Find the number of CLERKS employed. Give it a descriptive heading. 
 select count(*) as 'Number of Clerks in the Office'
@@ -117,10 +126,6 @@ from emp
 where mgr_id is not null
 group by mgr_id
 having count(*)>2
-
-
-
-
 
 
 
