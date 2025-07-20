@@ -10,13 +10,14 @@ deptno int primary key,
 dname varchar(30),
 loc varchar(30)
 )
+
 -- employee table creation
 create table emp(
 empno int primary key,
 ename varchar(30) not null,
 job varchar(30) not null,
 mgr_id int,
-hire_date varchar(30),
+hire_date datetime,
 salary int,
 comm int,
 deptno int references dept(deptno)
