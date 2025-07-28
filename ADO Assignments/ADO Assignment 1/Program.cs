@@ -34,8 +34,6 @@ namespace ADO_Assignment_1
     }
     class Program
     {
-        public static int Chennai { get; private set; }
-
         static void Main(string[] args)
         {
             // 1.Display a list of all the employee who have joined before 1 / 1 / 2015
